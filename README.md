@@ -1,4 +1,3 @@
-# testrepo
-## editing the file
-This is the description i wrote for the test repo
-This is the markdown file
+# Space Y
+## DataScience Capstone project
+This is a repositoy for the notebooks i made in the Coursera IBM Data Science course Capstone project
